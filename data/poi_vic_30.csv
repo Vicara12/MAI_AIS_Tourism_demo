@@ -1,0 +1,31 @@
+name,category,lat,lon,sustainability,popularity
+Plaça Major,Square,41.928886,2.25349,0.3,0.9
+Catedral de Sant Pere,Cathedral,41.931392,2.252167,0.3,0.89
+Temple Romà de Vic,Historic,41.933445,2.251047,0.3,0.92
+Museu Episcopal de Vic,Museum,41.93168,2.252181,0.3,0.88
+Pont de Queralt,Bridge,41.933971,2.25289,0.3,0.93
+Museu de l'Art de la Pell,Museum,41.927887,2.251466,0.3,0.87
+Casa Comella,Historic,41.933117,2.254149,0.37,0.69
+Casa Serratosa,Historic,41.931676,2.253177,0.3,0.89
+Casa Bayés,Historic,41.931621,2.254369,0.3,0.88
+Església de la Pietat,Church,41.927032,2.253215,0.32,0.69
+Església de Sant Just i Sant Pastor,Church,41.930888,2.255228,0.3,0.72
+Seminari de Vic,Cultural,41.929199,2.251465,0.35,0.69
+Rambla del Passeig,Promenade,41.928992,2.253665,0.31,0.74
+Mercat Municipal de Vic,Market,41.933351,2.253308,0.36,0.71
+Biblioteca Joan Triadú,Cultural,41.933871,2.255947,0.49,0.56
+Parc Jaume Balmes,Park,41.931884,2.258404,0.3,0.75
+Parc del Mèder,Park,41.933035,2.257209,0.39,0.63
+Pont d'en Bruguer,Bridge,41.93114,2.254812,0.3,0.81
+Convent de Santa Teresa,Historic,41.928986,2.255545,0.36,0.67
+Call Jueu (Jewish Quarter),Cultural,41.930676,2.254648,0.36,0.56
+Museu de la Ciutat de Vic,Museum,41.930956,2.252979,0.32,0.65
+Oficina de Turisme de Vic,Cultural,41.927433,2.255934,0.3,0.76
+Torre dels Frares,Tower,41.933699,2.255442,0.48,0.56
+Plaça de la Catedral,Square,41.928826,2.252399,0.38,0.69
+Plaça del Bisbe Oliba,Square,41.931463,2.257324,0.3,0.87
+Plaça de Sant Felip,Square,41.933376,2.25472,0.3,0.74
+Parc de l'Escorial,Park,41.928992,2.258901,0.3,0.77
+Parc de la Séquia,Park,41.926489,2.251082,0.31,0.75
+Orfeó Vigatà,Music Venue,41.931772,2.256184,0.3,0.89
+Plaça dels Màrtirs,Square,41.927587,2.255493,0.37,0.7

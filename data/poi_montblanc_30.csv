@@ -1,0 +1,31 @@
+name,category,lat,lon,sustainability,popularity
+Muralles de Montblanc,Historic,41.372827,1.162645,0.3,0.88
+Portal de Sant Jordi,Gate,41.373584,1.165636,0.3,0.85
+Plaça Major,Square,41.377313,1.165007,0.3,0.88
+Església de Santa Maria la Major,Church,41.375741,1.160007,0.3,0.88
+Església de Sant Miquel,Church,41.3747,1.163994,0.3,0.91
+Convent de Sant Francesc i Museu,Museum,41.375311,1.164481,0.3,0.91
+Pont Vell de Montblanc,Bridge,41.377116,1.161718,0.3,0.82
+Portal de Bové,Gate,41.374701,1.16407,0.3,0.95
+Portal de Sant Antoni,Gate,41.376289,1.161943,0.3,0.91
+Portal de la Raval,Gate,41.373357,1.163398,0.3,0.8
+Museu Comarcal de la Conca de Barberà,Museum,41.376105,1.163497,0.3,0.67
+Antic Hospital de Santa Magdalena,Historic,41.375267,1.165722,0.36,0.65
+Torre dels Cinc Cantons,Tower,41.377609,1.161251,0.5,0.61
+Carrer dels Jueus,Cultural,41.374494,1.164539,0.3,0.86
+Torre de Sant Jordi,Tower,41.372809,1.165992,0.46,0.57
+Oficina de Turisme de Montblanc,Cultural,41.374929,1.160221,0.3,0.74
+Santuari de la Mare de Déu de la Serra,Shrine,41.372456,1.16271,0.3,0.8
+Ermita de Sant Josep,Hermitage,41.375415,1.161526,0.3,0.7
+Baluard de Santa Anna,Historic,41.375389,1.164658,0.33,0.68
+Torre de la Pruna,Tower,41.373957,1.165023,0.31,0.66
+Celler Mas Foraster,Winery,41.377746,1.161437,0.3,0.74
+Celler Vinícola de Montblanc,Winery,41.373138,1.161219,0.33,0.73
+Pont de la Vila,Bridge,41.373437,1.164904,0.3,0.72
+Parc de la Muralla,Park,41.374814,1.163914,0.31,0.74
+Plaça de Sant Francesc,Square,41.374057,1.160025,0.33,0.67
+Mirador de la Muralla,Viewpoint,41.37324,1.163096,0.48,0.48
+Passeig Joan d'Àustria,Promenade,41.377026,1.161839,0.36,0.76
+Parc del Pont Vell,Park,41.377343,1.165943,0.38,0.72
+Carrer Major,Cultural,41.37606,1.162662,0.44,0.62
+Forn de la Vila,Historic Bakery,41.375046,1.1637,0.34,0.67
