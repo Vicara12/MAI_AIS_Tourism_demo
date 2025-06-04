@@ -1,0 +1,31 @@
+name,category,lat,lon,sustainability,popularity,municipality,z1,z2,z3,z4,z5,z6
+Girona Cathedral,Monument,41.987,2.8269,0.77,0.54,girona,0.5,0.6,0.7,0.8,0.4,0.9
+Sant Feliu Church,Historic,41.9873,2.8276,0.68,0.95,girona,0.68,0.95,0.5,0.7,0.4,0.6
+Arab Baths,Historic,41.9875,2.8279,0.8,0.65,girona,0.4,0.7,0.6,0.9,0.5,0.8
+Sant Pere de Galligants,Museum,41.9879,2.8262,0.93,0.46,girona,0.5,0.3,0.7,0.8,0.4,0.9
+Girona City Walls (Passeig de la Muralla),Viewpoint,41.9885,2.8295,0.66,0.8,girona,0.4,0.75,0.6,0.7,0.3,0.8
+Onyar River Houses,Viewpoint,41.9855,2.8238,0.66,0.43,girona,0.66,0.43,0.5,0.7,0.4,0.8
+Eiffel Bridge (Pont de les Peixateries Velles),Bridge,41.9868,2.8236,0.94,0.69,girona,0.3,0.5,0.7,0.8,0.4,0.9
+Plaça de la Independència,Square,41.9861,2.8248,0.82,0.3,girona,0.5,0.4,0.7,0.9,0.3,0.8
+Rambla de la Llibertat,Market,41.9867,2.8242,0.63,0.41,girona,0.63,0.41,0.5,0.7,0.4,0.8
+Girona Art Museum,Museum,41.9871,2.8268,0.78,0.69,girona,0.5,0.6,0.7,0.8,0.4,0.9
+Museum of Cinema,Museum,41.986,2.8234,0.63,0.78,girona,0.5,0.7,0.4,0.6,0.3,0.8
+Jewish History Museum,Museum,41.987,2.8259,0.63,0.68,girona,0.5,0.7,0.4,0.6,0.3,0.8
+Pont de Pedra,Bridge,41.986,2.8209,0.74,0.63,girona,0.5,0.8,0.6,0.7,0.4,0.9
+La Devesa Park,Park,41.9835,2.8195,0.41,0.6,girona,0.4,0.6,0.5,0.7,0.3,0.8
+Parc Central,Park,41.9795,2.8125,0.44,0.38,girona,0.3,0.5,0.7,0.6,0.4,0.8
+Pont de Sant Agustí,Bridge,41.9857,2.8227,0.62,0.52,girona,0.62,0.52,0.5,0.7,0.4,0.8
+Plaça Catalunya,Square,41.9871,2.8213,0.55,0.57,girona,0.45,0.65,0.7,0.6,0.4,0.75
+Sant Daniel Valley Trailhead,Nature,41.994,2.846,0.75,0.84,girona,0.3,0.9,0.6,0.7,0.4,0.8
+Monastery of Sant Daniel,Historic,41.9935,2.8472,0.56,0.71,girona,0.4,0.85,0.6,0.75,0.3,0.8
+Casa Masó,Museum,41.9868,2.8241,0.49,0.33,girona,0.4,0.5,0.6,0.7,0.3,0.8
+Passeig Arqueològic,Viewpoint,41.9882,2.8273,0.92,0.71,girona,0.3,0.5,0.8,0.9,0.4,0.7
+Girona City History Museum,Museum,41.9874,2.8249,0.67,0.58,girona,0.4,0.5,0.7,0.8,0.3,0.6
+Auditori de Girona,Music Venue,41.979,2.8186,0.71,0.53,girona,0.4,0.6,0.7,0.8,0.5,0.9
+La Copa Open-Air Venue,Cultural,41.9845,2.8197,0.49,0.76,girona,0.49,0.76,0.5,0.7,0.4,0.6
+Plaça del Vi,Square,41.9864,2.8249,0.62,0.84,girona,0.5,0.8,0.6,0.7,0.4,0.9
+Plaça dels Raïms,Square,41.9868,2.8251,0.72,0.82,girona,0.5,0.9,0.6,0.75,0.4,0.8
+Cathedral Treasury Museum,Museum,41.9871,2.8269,0.53,0.5,girona,0.4,0.6,0.7,0.8,0.5,0.9
+Fira de Girona Fairgrounds,Attraction,41.983,2.819,0.76,0.59,girona,0.5,0.7,0.4,0.8,0.3,0.6
+Centre Cultural La Mercè,Cultural,41.9894,2.8285,0.61,0.71,girona,0.61,0.71,0.5,0.8,0.4,0.7
+Parc de les Ribes del Ter,Park,41.9952,2.8233,0.66,0.83,girona,0.4,0.75,0.6,0.7,0.5,0.8

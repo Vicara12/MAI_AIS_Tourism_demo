@@ -1,0 +1,31 @@
+name,category,lat,lon,sustainability,popularity,municipality,z1,z2,z3,z4,z5,z6
+Pont Vell (Medieval Bridge),Historic,42.1989,2.7004,0.3,0.83,besalu,0.4,0.83,0.6,0.7,0.5,0.8
+Monestir de Sant Pere,Historic,42.1978,2.7009,0.3,0.91,besalu,0.4,0.9,0.6,0.7,0.5,0.8
+Església de Sant Vicenç,Historic,42.1981,2.6998,0.3,0.81,besalu,0.4,0.81,0.6,0.7,0.5,0.8
+Micvé (Jewish Ritual Bath),Historic,42.1985,2.699,0.3,0.92,besalu,0.4,0.92,0.5,0.6,0.3,0.7
+Jewish Quarter (Call Jueu),Cultural,42.1983,2.6995,0.3,0.95,besalu,0.4,0.95,0.6,0.7,0.3,0.8
+Casa Cornellà,Historic,42.1987,2.7001,0.3,0.84,besalu,0.4,0.7,0.6,0.5,0.3,0.8
+Plaça Llibertat,Square,42.1982,2.7003,0.3,0.65,besalu,0.4,0.5,0.7,0.6,0.4,0.8
+Portal de la Força,Gate,42.1984,2.6997,0.3,0.78,besalu,0.4,0.78,0.5,0.6,0.3,0.7
+Museu de Miniatures i Microminiatures,Museum,42.1986,2.701,0.36,0.59,besalu,0.4,0.7,0.5,0.8,0.3,0.6
+Museu del Joguet de Catalunya (Besalú),Museum,42.199,2.7006,0.39,0.6,besalu,0.4,0.6,0.5,0.7,0.3,0.8
+Ribes del Fluvià Riverside Park,Nature,42.1995,2.6982,0.48,0.54,besalu,0.48,0.54,0.6,0.7,0.4,0.8
+Parc Fluvial de Besalú,Park,42.2,2.6978,0.52,0.42,besalu,0.4,0.5,0.6,0.7,0.3,0.8
+Castell de Besalú (Ruins),Historic,42.198,2.7008,0.34,0.56,besalu,0.34,0.56,0.5,0.7,0.4,0.6
+Centre d'Interpretació del Call,Museum,42.1984,2.6992,0.51,0.58,besalu,0.51,0.58,0.65,0.7,0.4,0.75
+Pont Nou,Bridge,42.1969,2.703,0.3,0.85,besalu,0.4,0.85,0.6,0.7,0.5,0.8
+Església de Sant Martí,Historic,42.1992,2.7012,0.3,0.76,besalu,0.4,0.76,0.5,0.7,0.3,0.8
+Casa Llaudes,Historic,42.1989,2.7,0.48,0.46,besalu,0.5,0.6,0.7,0.8,0.4,0.9
+Recinte Medieval,Cultural,42.1982,2.6993,0.3,0.89,besalu,0.4,0.89,0.6,0.7,0.5,0.8
+Torre de la Presó,Historic,42.1986,2.7007,0.6,0.42,besalu,0.4,0.5,0.7,0.8,0.3,0.9
+Plaça dels Claustres,Square,42.198,2.6999,0.3,0.73,besalu,0.4,0.6,0.5,0.7,0.3,0.8
+Espai Cultural Curia Reial,Cultural,42.1988,2.6991,0.3,0.73,besalu,0.3,0.73,0.5,0.6,0.4,0.8
+Camí de Sant Ferriol,Nature,42.2012,2.7105,0.32,0.72,besalu,0.4,0.8,0.6,0.5,0.3,0.7
+Mirador del Fluvià,Viewpoint,42.2007,2.697,0.3,0.61,besalu,0.4,0.61,0.5,0.7,0.3,0.8
+Passeig Fluvial,Nature,42.1997,2.6985,0.54,0.45,besalu,0.4,0.3,0.6,0.7,0.5,0.8
+Cingle de Besalú Viewpoint,Viewpoint,42.2005,2.6958,0.32,0.75,besalu,0.32,0.75,0.5,0.6,0.4,0.7
+Pont de Pedra,Bridge,42.1975,2.702,0.52,0.49,besalu,0.52,0.49,0.5,0.6,0.4,0.7
+Aigües de les Creus (Spring),Nature,42.201,2.706,0.58,0.5,besalu,0.4,0.6,0.7,0.8,0.3,0.9
+Arboretum Besalú Gardens,Park,42.2002,2.704,0.49,0.52,besalu,0.49,0.52,0.5,0.6,0.4,0.7
+Ermita de Sant Prim,Historic,42.202,2.712,0.3,0.76,besalu,0.4,0.76,0.5,0.7,0.3,0.6
+Porta d'en Llaudes,Gate,42.1981,2.6994,0.3,0.81,besalu,0.3,0.81,0.5,0.7,0.4,0.6

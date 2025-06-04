@@ -1,0 +1,301 @@
+name,category,lat,lon,sustainability,popularity,municipality,z1,z2,z3,z4,z5,z6
+La Sagrada Família,Monument,41.4036,2.1744,0.35,0.98,barcelona,0.4,0.98,0.6,0.5,0.3,0.7
+Park Güell,Park,41.4145,2.1527,0.8,0.95,barcelona,0.6,0.95,0.4,0.7,0.5,0.8
+Casa Batlló,Monument,41.3916,2.1649,0.4,0.92,barcelona,0.4,0.92,0.5,0.7,0.3,0.8
+La Pedrera (Casa Milà),Monument,41.3954,2.1619,0.45,0.88,barcelona,0.4,0.9,0.6,0.7,0.5,0.8
+Barcelona Cathedral,Historic,41.3839,2.1763,0.5,0.85,barcelona,0.4,0.85,0.6,0.7,0.3,0.8
+Montjuïc Castle,Historic,41.3634,2.165,0.7,0.7,barcelona,0.5,0.6,0.4,0.8,0.3,0.7
+Museu Picasso,Museum,41.3852,2.18,0.55,0.8,barcelona,0.4,0.7,0.6,0.75,0.5,0.8
+Parc de la Ciutadella,Park,41.3887,2.187,0.88,0.75,barcelona,0.4,0.6,0.7,0.9,0.5,0.8
+Spotify Camp Nou,Sports,41.3809,2.1228,0.3,0.9,barcelona,0.4,0.9,0.5,0.3,0.6,0.7
+Barceloneta Beach,Beach,41.3815,2.1925,0.6,0.93,barcelona,0.4,0.93,0.5,0.7,0.3,0.8
+Mercat de la Boqueria,Market,41.3825,2.1719,0.45,0.89,barcelona,0.4,0.8,0.6,0.7,0.5,0.9
+Palau de la Música Catalana,Music Venue,41.387,2.1751,0.55,0.78,barcelona,0.55,0.78,0.65,0.7,0.4,0.85
+Tibidabo Amusement Park,Amusement,41.422,2.1183,0.5,0.74,barcelona,0.4,0.6,0.5,0.7,0.3,0.8
+Bunkers del Carmel,Viewpoint,41.4187,2.165,0.85,0.65,barcelona,0.4,0.7,0.6,0.75,0.3,0.8
+Jardí Botànic de Barcelona,Nature,41.3643,2.156,0.9,0.55,barcelona,0.3,0.4,0.7,0.8,0.2,0.9
+Museu Nacional d'Art de Catalunya (MNAC),Museum,41.3689,2.1534,0.6,0.77,barcelona,0.4,0.8,0.5,0.7,0.3,0.9
+Arc de Triomf,Monument,41.3911,2.1808,0.5,0.83,barcelona,0.4,0.83,0.6,0.7,0.5,0.8
+Hospital de Sant Pau,Historic,41.4127,2.1743,0.75,0.65,barcelona,0.5,0.8,0.6,0.7,0.4,0.9
+Mercat de Santa Caterina,Market,41.386,2.1754,0.6,0.6,barcelona,0.4,0.5,0.7,0.8,0.3,0.9
+Mirador de Colom,Viewpoint,41.3741,2.1779,0.55,0.7,barcelona,0.4,0.6,0.5,0.7,0.3,0.8
+Parc del Laberint d'Horta,Park,41.4413,2.1382,0.92,0.5,barcelona,0.3,0.4,0.7,0.8,0.2,0.9
+CaixaForum Barcelona,Museum,41.3697,2.1495,0.65,0.58,barcelona,0.65,0.58,0.5,0.7,0.4,0.8
+Poble Espanyol,Cultural,41.3693,2.1479,0.6,0.62,barcelona,0.4,0.7,0.5,0.8,0.3,0.6
+Palau Güell,Monument,41.3803,2.1741,0.55,0.68,barcelona,0.55,0.68,0.5,0.7,0.4,0.6
+Plaça Reial,Square,41.3803,2.1752,0.5,0.72,barcelona,0.4,0.8,0.6,0.7,0.5,0.9
+MUHBA Plaça del Rei,Museum,41.3835,2.1776,0.65,0.6,barcelona,0.4,0.75,0.5,0.7,0.3,0.8
+L'Aquàrium de Barcelona,Attraction,41.3774,2.1897,0.48,0.8,barcelona,0.5,0.8,0.6,0.7,0.4,0.9
+Museu de Ciències Naturals (Museu Blau),Museum,41.4115,2.2194,0.7,0.55,barcelona,0.4,0.6,0.7,0.8,0.5,0.9
+CosmoCaixa Science Museum,Museum,41.4091,2.1418,0.78,0.57,barcelona,0.4,0.6,0.7,0.8,0.5,0.9
+Font Màgica de Montjuïc,Viewpoint,41.3702,2.1518,0.7,0.82,barcelona,0.5,0.82,0.6,0.7,0.4,0.8
+Pont Vell (Medieval Bridge),Historic,42.1989,2.7004,0.3,0.83,besalu,0.4,0.83,0.6,0.7,0.5,0.8
+Monestir de Sant Pere,Historic,42.1978,2.7009,0.3,0.91,besalu,0.4,0.9,0.6,0.7,0.5,0.8
+Església de Sant Vicenç,Historic,42.1981,2.6998,0.3,0.81,besalu,0.4,0.81,0.6,0.7,0.5,0.8
+Micvé (Jewish Ritual Bath),Historic,42.1985,2.699,0.3,0.92,besalu,0.4,0.92,0.5,0.6,0.3,0.7
+Jewish Quarter (Call Jueu),Cultural,42.1983,2.6995,0.3,0.95,besalu,0.4,0.95,0.6,0.7,0.3,0.8
+Casa Cornellà,Historic,42.1987,2.7001,0.3,0.84,besalu,0.4,0.7,0.6,0.5,0.3,0.8
+Plaça Llibertat,Square,42.1982,2.7003,0.3,0.65,besalu,0.4,0.5,0.7,0.6,0.4,0.8
+Portal de la Força,Gate,42.1984,2.6997,0.3,0.78,besalu,0.4,0.78,0.5,0.6,0.3,0.7
+Museu de Miniatures i Microminiatures,Museum,42.1986,2.701,0.36,0.59,besalu,0.4,0.7,0.5,0.8,0.3,0.6
+Museu del Joguet de Catalunya (Besalú),Museum,42.199,2.7006,0.39,0.6,besalu,0.4,0.6,0.5,0.7,0.3,0.8
+Ribes del Fluvià Riverside Park,Nature,42.1995,2.6982,0.48,0.54,besalu,0.48,0.54,0.6,0.7,0.4,0.8
+Parc Fluvial de Besalú,Park,42.2,2.6978,0.52,0.42,besalu,0.4,0.5,0.6,0.7,0.3,0.8
+Castell de Besalú (Ruins),Historic,42.198,2.7008,0.34,0.56,besalu,0.34,0.56,0.5,0.7,0.4,0.6
+Centre d'Interpretació del Call,Museum,42.1984,2.6992,0.51,0.58,besalu,0.51,0.58,0.65,0.7,0.4,0.75
+Pont Nou,Bridge,42.1969,2.703,0.3,0.85,besalu,0.4,0.85,0.6,0.7,0.5,0.8
+Església de Sant Martí,Historic,42.1992,2.7012,0.3,0.76,besalu,0.4,0.76,0.5,0.7,0.3,0.8
+Casa Llaudes,Historic,42.1989,2.7,0.48,0.46,besalu,0.5,0.6,0.7,0.8,0.4,0.9
+Recinte Medieval,Cultural,42.1982,2.6993,0.3,0.89,besalu,0.4,0.89,0.6,0.7,0.5,0.8
+Torre de la Presó,Historic,42.1986,2.7007,0.6,0.42,besalu,0.4,0.5,0.7,0.8,0.3,0.9
+Plaça dels Claustres,Square,42.198,2.6999,0.3,0.73,besalu,0.4,0.6,0.5,0.7,0.3,0.8
+Espai Cultural Curia Reial,Cultural,42.1988,2.6991,0.3,0.73,besalu,0.3,0.73,0.5,0.6,0.4,0.8
+Camí de Sant Ferriol,Nature,42.2012,2.7105,0.32,0.72,besalu,0.4,0.8,0.6,0.5,0.3,0.7
+Mirador del Fluvià,Viewpoint,42.2007,2.697,0.3,0.61,besalu,0.4,0.61,0.5,0.7,0.3,0.8
+Passeig Fluvial,Nature,42.1997,2.6985,0.54,0.45,besalu,0.4,0.3,0.6,0.7,0.5,0.8
+Cingle de Besalú Viewpoint,Viewpoint,42.2005,2.6958,0.32,0.75,besalu,0.32,0.75,0.5,0.6,0.4,0.7
+Pont de Pedra,Bridge,42.1975,2.702,0.52,0.49,besalu,0.52,0.49,0.5,0.6,0.4,0.7
+Aigües de les Creus (Spring),Nature,42.201,2.706,0.58,0.5,besalu,0.4,0.6,0.7,0.8,0.3,0.9
+Arboretum Besalú Gardens,Park,42.2002,2.704,0.49,0.52,besalu,0.49,0.52,0.5,0.6,0.4,0.7
+Ermita de Sant Prim,Historic,42.202,2.712,0.3,0.76,besalu,0.4,0.76,0.5,0.7,0.3,0.6
+Porta d'en Llaudes,Gate,42.1981,2.6994,0.3,0.81,besalu,0.3,0.81,0.5,0.7,0.4,0.6
+Salvador Dalí House (Port Lligat),Museum,42.2884,3.2953,0.3,0.89,cadaques,0.3,0.89,0.5,0.7,0.4,0.6
+Església de Santa Maria de Cadaqués,Historic,42.2887,3.2764,0.3,0.86,cadaques,0.4,0.86,0.5,0.7,0.3,0.6
+Platja Gran,Beach,42.2875,3.2769,0.3,0.91,cadaques,0.4,0.9,0.5,0.6,0.3,0.8
+Cala Portaló,Beach,42.2992,3.3189,0.3,0.9,cadaques,0.4,0.8,0.6,0.5,0.3,0.7
+Cala Jugadora,Beach,42.3197,3.3214,0.3,0.94,cadaques,0.3,0.94,0.5,0.6,0.4,0.7
+Cala Culip,Beach,42.3229,3.3232,0.37,0.68,cadaques,0.4,0.7,0.5,0.6,0.3,0.8
+Cap de Creus Lighthouse,Viewpoint,42.3213,3.3155,0.43,0.57,cadaques,0.43,0.57,0.5,0.6,0.4,0.7
+Far de Cala Nans,Viewpoint,42.2817,3.2813,0.51,0.49,cadaques,0.51,0.49,0.5,0.6,0.4,0.7
+Casa Serinyana (Casa Blaua),Historic,42.2873,3.2765,0.3,0.71,cadaques,0.4,0.6,0.5,0.7,0.3,0.8
+Passeig de Cadaqués,Promenade,42.2878,3.2772,0.36,0.62,cadaques,0.36,0.62,0.5,0.7,0.4,0.8
+Platja de Port Doguer,Beach,42.2876,3.279,0.36,0.64,cadaques,0.4,0.7,0.5,0.6,0.3,0.8
+Cala Sa Conca,Beach,42.298,3.3018,0.42,0.59,cadaques,0.42,0.59,0.5,0.7,0.4,0.6
+Platja de Ses Oliveres,Beach,42.2874,3.2811,0.64,0.45,cadaques,0.5,0.6,0.7,0.8,0.4,0.9
+Cala Guillola,Beach,42.3016,3.3097,0.3,0.74,cadaques,0.4,0.74,0.5,0.6,0.3,0.7
+Parc Natural de Cap de Creus,Nature,42.3192,3.3,0.36,0.7,cadaques,0.4,0.7,0.5,0.6,0.3,0.8
+Casa Pilar,Historic,42.2885,3.2776,0.43,0.67,cadaques,0.43,0.67,0.5,0.6,0.4,0.7
+Castell de Sant Jaume,Historic,42.288,3.276,0.3,0.72,cadaques,0.4,0.72,0.5,0.6,0.3,0.8
+Museu de Cadaqués,Museum,42.2881,3.2771,0.49,0.53,cadaques,0.49,0.53,0.5,0.6,0.4,0.7
+Punta de s'Alqueria,Viewpoint,42.293,3.2895,0.3,0.85,cadaques,0.4,0.85,0.6,0.7,0.3,0.8
+Cala s'Alqueria,Beach,42.2943,3.2887,0.37,0.62,cadaques,0.37,0.62,0.5,0.7,0.4,0.8
+Cala Fredosa,Beach,42.3219,3.3217,0.3,0.69,cadaques,0.4,0.7,0.5,0.6,0.3,0.8
+Cala del Canadell,Beach,42.2957,3.2954,0.3,0.72,cadaques,0.4,0.72,0.5,0.6,0.3,0.8
+Cala Bona,Beach,42.2932,3.2941,0.49,0.38,cadaques,0.49,0.38,0.5,0.6,0.4,0.7
+Cala Torta,Beach,42.2989,3.3101,0.3,0.82,cadaques,0.4,0.7,0.5,0.6,0.3,0.8
+Cala Tamariua,Beach,42.2951,3.281,0.3,0.66,cadaques,0.4,0.66,0.5,0.7,0.3,0.8
+Platja de les Oliveres,Beach,42.287,3.283,0.55,0.48,cadaques,0.4,0.6,0.7,0.5,0.3,0.8
+Cala Nans Trailhead,Nature,42.283,3.281,0.44,0.61,cadaques,0.3,0.5,0.7,0.6,0.4,0.8
+Platja es Sortell,Beach,42.2883,3.2752,0.3,0.92,cadaques,0.4,0.92,0.5,0.6,0.3,0.7
+Carrer de Santa Margarida,Cultural,42.2883,3.2766,0.41,0.63,cadaques,0.41,0.63,0.5,0.7,0.4,0.8
+Galeria Cadaqués,Gallery,42.2878,3.2778,0.54,0.51,cadaques,0.54,0.51,0.5,0.6,0.4,0.7
+Dalí Theatre‑Museum,Museum,42.2678,2.9602,0.3,0.91,figueres,0.3,0.91,0.5,0.7,0.4,0.6
+Castell de Sant Ferran,Historic,42.2736,2.9626,0.3,0.91,figueres,0.3,0.91,0.5,0.7,0.4,0.6
+Toy Museum of Catalonia,Museum,42.2675,2.9612,0.3,0.87,figueres,0.4,0.87,0.5,0.6,0.3,0.8
+Church of Sant Pere,Historic,42.2687,2.9597,0.3,0.9,figueres,0.3,0.9,0.5,0.7,0.4,0.6
+La Rambla de Figueres,Square,42.267,2.9575,0.3,0.89,figueres,0.4,0.8,0.6,0.5,0.3,0.7
+Museu de l'Empordà,Museum,42.2679,2.959,0.3,0.74,figueres,0.4,0.6,0.5,0.7,0.3,0.8
+Torre Galatea,Historic,42.2679,2.9603,0.3,0.76,figueres,0.3,0.76,0.5,0.7,0.4,0.6
+Plaça Gala i Salvador Dalí,Square,42.2659,2.9602,0.39,0.65,figueres,0.39,0.65,0.5,0.7,0.4,0.8
+Museu de la Tècnica de l'Empordà,Museum,42.2672,2.96,0.3,0.87,figueres,0.4,0.87,0.6,0.5,0.3,0.8
+Cinema‑Teatre El Jardí,Cultural,42.2671,2.9625,0.55,0.44,figueres,0.55,0.44,0.5,0.6,0.4,0.7
+Parc Bosc,Park,42.2755,2.9566,0.3,0.82,figueres,0.3,0.82,0.5,0.7,0.4,0.6
+La Cate Cultural Center,Cultural,42.2681,2.9609,0.3,0.68,figueres,0.4,0.7,0.5,0.6,0.3,0.8
+Monument a Narcís Monturiol,Monument,42.2674,2.9584,0.33,0.67,figueres,0.4,0.6,0.5,0.7,0.3,0.8
+Casa Natal de Salvador Dalí,Historic,42.2682,2.9602,0.35,0.71,figueres,0.35,0.71,0.5,0.6,0.4,0.7
+Ermita del Bon Jesús,Historic,42.2752,2.9741,0.39,0.72,figueres,0.39,0.72,0.5,0.6,0.4,0.7
+Parc de les Aigües,Park,42.2653,2.9615,0.3,0.68,figueres,0.3,0.68,0.5,0.7,0.4,0.6
+Plaça de Catalunya (Figueres),Square,42.266,2.9593,0.35,0.63,figueres,0.4,0.7,0.5,0.6,0.3,0.8
+Biblioteca Fages de Climent,Cultural,42.2669,2.9604,0.3,0.64,figueres,0.4,0.6,0.7,0.5,0.3,0.8
+Espai Dalí Figueres,Cultural,42.268,2.9595,0.4,0.67,figueres,0.4,0.67,0.5,0.6,0.3,0.8
+Església del Sagrat Cor,Historic,42.2685,2.9608,0.3,0.76,figueres,0.3,0.76,0.5,0.7,0.4,0.6
+Mercat de la Plaça del Gra,Market,42.2687,2.9583,0.3,0.67,figueres,0.4,0.67,0.5,0.8,0.3,0.6
+Plaça del Gra,Square,42.2687,2.9584,0.3,0.62,figueres,0.4,0.5,0.7,0.8,0.3,0.6
+Parc de les Estacions,Park,42.2553,2.9523,0.35,0.7,figueres,0.4,0.6,0.5,0.7,0.3,0.8
+Estadi Municipal de Vilatenim,Sports,42.2591,2.9563,0.46,0.59,figueres,0.46,0.59,0.5,0.7,0.4,0.8
+Monument a Salvador Dalí,Monument,42.2669,2.9581,0.36,0.61,figueres,0.36,0.61,0.5,0.7,0.4,0.8
+Parc de la Rambla,Park,42.2672,2.957,0.3,0.7,figueres,0.4,0.7,0.5,0.6,0.3,0.8
+Convent dels Caputxins,Historic,42.2675,2.9628,0.57,0.41,figueres,0.4,0.5,0.6,0.7,0.3,0.8
+Oficina de Turisme de Figueres,Cultural,42.2676,2.9596,0.36,0.63,figueres,0.36,0.63,0.5,0.7,0.4,0.8
+Sala d'Exposicions l'Escorxador,Cultural,42.2649,2.9555,0.3,0.83,figueres,0.3,0.83,0.5,0.7,0.4,0.6
+Parc dels Pinos,Park,42.2668,2.9641,0.3,0.69,figueres,0.3,0.69,0.5,0.7,0.4,0.8
+Girona Cathedral,Monument,41.987,2.8269,0.77,0.54,girona,0.5,0.6,0.7,0.8,0.4,0.9
+Sant Feliu Church,Historic,41.9873,2.8276,0.68,0.95,girona,0.68,0.95,0.5,0.7,0.4,0.6
+Arab Baths,Historic,41.9875,2.8279,0.8,0.65,girona,0.4,0.7,0.6,0.9,0.5,0.8
+Sant Pere de Galligants,Museum,41.9879,2.8262,0.93,0.46,girona,0.5,0.3,0.7,0.8,0.4,0.9
+Girona City Walls (Passeig de la Muralla),Viewpoint,41.9885,2.8295,0.66,0.8,girona,0.4,0.75,0.6,0.7,0.3,0.8
+Onyar River Houses,Viewpoint,41.9855,2.8238,0.66,0.43,girona,0.66,0.43,0.5,0.7,0.4,0.8
+Eiffel Bridge (Pont de les Peixateries Velles),Bridge,41.9868,2.8236,0.94,0.69,girona,0.3,0.5,0.7,0.8,0.4,0.9
+Plaça de la Independència,Square,41.9861,2.8248,0.82,0.3,girona,0.5,0.4,0.7,0.9,0.3,0.8
+Rambla de la Llibertat,Market,41.9867,2.8242,0.63,0.41,girona,0.63,0.41,0.5,0.7,0.4,0.8
+Girona Art Museum,Museum,41.9871,2.8268,0.78,0.69,girona,0.5,0.6,0.7,0.8,0.4,0.9
+Museum of Cinema,Museum,41.986,2.8234,0.63,0.78,girona,0.5,0.7,0.4,0.6,0.3,0.8
+Jewish History Museum,Museum,41.987,2.8259,0.63,0.68,girona,0.5,0.7,0.4,0.6,0.3,0.8
+Pont de Pedra,Bridge,41.986,2.8209,0.74,0.63,girona,0.5,0.8,0.6,0.7,0.4,0.9
+La Devesa Park,Park,41.9835,2.8195,0.41,0.6,girona,0.4,0.6,0.5,0.7,0.3,0.8
+Parc Central,Park,41.9795,2.8125,0.44,0.38,girona,0.3,0.5,0.7,0.6,0.4,0.8
+Pont de Sant Agustí,Bridge,41.9857,2.8227,0.62,0.52,girona,0.62,0.52,0.5,0.7,0.4,0.8
+Plaça Catalunya,Square,41.9871,2.8213,0.55,0.57,girona,0.45,0.65,0.7,0.6,0.4,0.75
+Sant Daniel Valley Trailhead,Nature,41.994,2.846,0.75,0.84,girona,0.3,0.9,0.6,0.7,0.4,0.8
+Monastery of Sant Daniel,Historic,41.9935,2.8472,0.56,0.71,girona,0.4,0.85,0.6,0.75,0.3,0.8
+Casa Masó,Museum,41.9868,2.8241,0.49,0.33,girona,0.4,0.5,0.6,0.7,0.3,0.8
+Passeig Arqueològic,Viewpoint,41.9882,2.8273,0.92,0.71,girona,0.3,0.5,0.8,0.9,0.4,0.7
+Girona City History Museum,Museum,41.9874,2.8249,0.67,0.58,girona,0.4,0.5,0.7,0.8,0.3,0.6
+Auditori de Girona,Music Venue,41.979,2.8186,0.71,0.53,girona,0.4,0.6,0.7,0.8,0.5,0.9
+La Copa Open-Air Venue,Cultural,41.9845,2.8197,0.49,0.76,girona,0.49,0.76,0.5,0.7,0.4,0.6
+Plaça del Vi,Square,41.9864,2.8249,0.62,0.84,girona,0.5,0.8,0.6,0.7,0.4,0.9
+Plaça dels Raïms,Square,41.9868,2.8251,0.72,0.82,girona,0.5,0.9,0.6,0.75,0.4,0.8
+Cathedral Treasury Museum,Museum,41.9871,2.8269,0.53,0.5,girona,0.4,0.6,0.7,0.8,0.5,0.9
+Fira de Girona Fairgrounds,Attraction,41.983,2.819,0.76,0.59,girona,0.5,0.7,0.4,0.8,0.3,0.6
+Centre Cultural La Mercè,Cultural,41.9894,2.8285,0.61,0.71,girona,0.61,0.71,0.5,0.8,0.4,0.7
+Parc de les Ribes del Ter,Park,41.9952,2.8233,0.66,0.83,girona,0.4,0.75,0.6,0.7,0.5,0.8
+La Seu Vella (Old Cathedral),Historic,41.6165,0.6183,0.3,0.76,lleida,0.3,0.76,0.5,0.7,0.4,0.8
+Castell del Rei - La Suda,Historic,41.618,0.6181,0.3,0.79,lleida,0.4,0.6,0.7,0.5,0.3,0.8
+Museu de Lleida Diocesà i Comarcal,Museum,41.6144,0.6305,0.48,0.51,lleida,0.48,0.51,0.5,0.6,0.4,0.7
+Palau de la Paeria (City Hall),Historic,41.6173,0.6209,0.44,0.59,lleida,0.44,0.59,0.5,0.7,0.3,0.8
+Església de Sant Llorenç,Historic,41.617,0.6254,0.3,0.84,lleida,0.3,0.84,0.5,0.7,0.4,0.6
+Institut d'Estudis Ilerdencs (IEI),Museum,41.6182,0.6225,0.3,0.92,lleida,0.4,0.92,0.5,0.7,0.3,0.8
+La Llotja de Lleida (Theater),Cultural,41.6109,0.6265,0.51,0.55,lleida,0.51,0.55,0.5,0.6,0.4,0.7
+Auditori Enric Granados,Music Venue,41.613,0.622,0.3,0.85,lleida,0.4,0.85,0.6,0.7,0.5,0.8
+CaixaForum Lleida,Museum,41.6102,0.6222,0.3,0.76,lleida,0.4,0.76,0.5,0.7,0.3,0.8
+Parc de la Mitjana,Nature,41.6345,0.6567,0.54,0.49,lleida,0.54,0.49,0.5,0.6,0.4,0.7
+Parc dels Camps Elisis,Park,41.6093,0.6231,0.3,0.68,lleida,0.4,0.5,0.7,0.6,0.3,0.8
+Castell de Gardeny (Templar Castle),Historic,41.616,0.6013,0.36,0.58,lleida,0.36,0.58,0.5,0.7,0.4,0.8
+Museu de l'Automoció Roda Roda,Museum,41.6194,0.6258,0.43,0.49,lleida,0.43,0.49,0.5,0.6,0.4,0.7
+Pont de la Universitat,Bridge,41.6178,0.6299,0.3,0.79,lleida,0.4,0.79,0.5,0.6,0.3,0.7
+Pont Vell,Bridge,41.6162,0.6229,0.3,0.88,lleida,0.3,0.88,0.5,0.7,0.4,0.6
+Passarel·la de Blondel,Bridge,41.6177,0.6238,0.63,0.52,lleida,0.4,0.5,0.7,0.6,0.3,0.8
+Catedral Nova de Lleida,Monument,41.6167,0.6245,0.58,0.44,lleida,0.58,0.44,0.5,0.7,0.3,0.6
+Museu d'Art Jaume Morera,Museum,41.616,0.6217,0.46,0.7,lleida,0.4,0.7,0.5,0.6,0.3,0.8
+Palau de la Diputació de Lleida,Historic,41.6145,0.6239,0.3,0.76,lleida,0.4,0.76,0.5,0.7,0.3,0.8
+Plaça de Sant Joan,Square,41.6181,0.6228,0.48,0.54,lleida,0.48,0.54,0.5,0.6,0.4,0.7
+Església de Sant Joan Baptista,Historic,41.618,0.622,0.3,0.74,lleida,0.3,0.74,0.5,0.6,0.4,0.7
+Passeig del Segre Riverside,Viewpoint,41.617,0.6275,0.34,0.66,lleida,0.34,0.66,0.5,0.7,0.4,0.8
+Parc de la Canalització del Segre,Park,41.6135,0.642,0.66,0.42,lleida,0.66,0.42,0.5,0.7,0.3,0.8
+Fira de Lleida (Trade Fair),Attraction,41.6068,0.6355,0.52,0.47,lleida,0.52,0.47,0.5,0.6,0.4,0.7
+Camp d'Esports Stadium,Sports,41.6245,0.6265,0.51,0.49,lleida,0.51,0.49,0.5,0.6,0.4,0.7
+Arboretum – Jardí Botànic de Lleida,Nature,41.624,0.613,0.3,0.9,lleida,0.4,0.9,0.6,0.7,0.5,0.8
+Museu de l'Aigua,Museum,41.6202,0.6333,0.51,0.66,lleida,0.51,0.66,0.5,0.7,0.4,0.8
+Ermita de Butsènit,Historic,41.5898,0.597,0.3,0.69,lleida,0.4,0.7,0.5,0.6,0.3,0.8
+Centre d'Art la Panera,Museum,41.6171,0.6232,0.3,0.77,lleida,0.3,0.77,0.5,0.6,0.4,0.8
+Espai Cavallers Galeria d'Art,Cultural,41.6149,0.6241,0.3,0.67,lleida,0.3,0.67,0.5,0.8,0.4,0.6
+Muralles de Montblanc,Historic,41.372827,1.162645,0.3,0.88,montblanc,0.4,0.9,0.6,0.7,0.5,0.8
+Portal de Sant Jordi,Gate,41.373584,1.165636,0.3,0.85,montblanc,0.3,0.85,0.5,0.7,0.4,0.6
+Plaça Major,Square,41.377313,1.165007,0.3,0.88,montblanc,0.4,0.88,0.5,0.7,0.3,0.6
+Església de Santa Maria la Major,Church,41.375741,1.160007,0.3,0.88,montblanc,0.4,0.88,0.5,0.7,0.3,0.6
+Església de Sant Miquel,Church,41.3747,1.163994,0.3,0.91,montblanc,0.3,0.91,0.5,0.7,0.4,0.8
+Convent de Sant Francesc i Museu,Museum,41.375311,1.164481,0.3,0.91,montblanc,0.4,0.91,0.6,0.7,0.3,0.8
+Pont Vell de Montblanc,Bridge,41.377116,1.161718,0.3,0.82,montblanc,0.3,0.82,0.5,0.7,0.4,0.6
+Portal de Bové,Gate,41.374701,1.16407,0.3,0.95,montblanc,0.4,0.95,0.6,0.5,0.3,0.7
+Portal de Sant Antoni,Gate,41.376289,1.161943,0.3,0.91,montblanc,0.4,0.8,0.6,0.5,0.3,0.7
+Portal de la Raval,Gate,41.373357,1.163398,0.3,0.8,montblanc,0.3,0.8,0.5,0.7,0.4,0.6
+Museu Comarcal de la Conca de Barberà,Museum,41.376105,1.163497,0.3,0.67,montblanc,0.3,0.67,0.5,0.8,0.4,0.6
+Antic Hospital de Santa Magdalena,Historic,41.375267,1.165722,0.36,0.65,montblanc,0.36,0.65,0.5,0.7,0.4,0.8
+Torre dels Cinc Cantons,Tower,41.377609,1.161251,0.5,0.61,montblanc,0.4,0.7,0.5,0.6,0.3,0.8
+Carrer dels Jueus,Cultural,41.374494,1.164539,0.3,0.86,montblanc,0.3,0.86,0.5,0.7,0.4,0.8
+Torre de Sant Jordi,Tower,41.372809,1.165992,0.46,0.57,montblanc,0.4,0.6,0.5,0.7,0.3,0.8
+Oficina de Turisme de Montblanc,Cultural,41.374929,1.160221,0.3,0.74,montblanc,0.3,0.74,0.5,0.6,0.4,0.7
+Santuari de la Mare de Déu de la Serra,Shrine,41.372456,1.16271,0.3,0.8,montblanc,0.4,0.7,0.5,0.6,0.3,0.8
+Ermita de Sant Josep,Hermitage,41.375415,1.161526,0.3,0.7,montblanc,0.4,0.6,0.5,0.7,0.3,0.8
+Baluard de Santa Anna,Historic,41.375389,1.164658,0.33,0.68,montblanc,0.4,0.7,0.5,0.6,0.3,0.8
+Torre de la Pruna,Tower,41.373957,1.165023,0.31,0.66,montblanc,0.31,0.66,0.5,0.7,0.4,0.8
+Celler Mas Foraster,Winery,41.377746,1.161437,0.3,0.74,montblanc,0.4,0.6,0.5,0.7,0.3,0.8
+Celler Vinícola de Montblanc,Winery,41.373138,1.161219,0.33,0.73,montblanc,0.4,0.6,0.5,0.7,0.3,0.8
+Pont de la Vila,Bridge,41.373437,1.164904,0.3,0.72,montblanc,0.4,0.8,0.5,0.6,0.3,0.7
+Parc de la Muralla,Park,41.374814,1.163914,0.31,0.74,montblanc,0.31,0.74,0.5,0.6,0.4,0.7
+Plaça de Sant Francesc,Square,41.374057,1.160025,0.33,0.67,montblanc,0.4,0.5,0.6,0.7,0.3,0.8
+Mirador de la Muralla,Viewpoint,41.37324,1.163096,0.48,0.48,montblanc,0.4,0.6,0.5,0.7,0.3,0.8
+Passeig Joan d'Àustria,Promenade,41.377026,1.161839,0.36,0.76,montblanc,0.36,0.76,0.5,0.7,0.4,0.8
+Parc del Pont Vell,Park,41.377343,1.165943,0.38,0.72,montblanc,0.38,0.72,0.5,0.6,0.4,0.7
+Carrer Major,Cultural,41.37606,1.162662,0.44,0.62,montblanc,0.44,0.62,0.5,0.7,0.3,0.8
+Forn de la Vila,Historic Bakery,41.375046,1.1637,0.34,0.67,montblanc,0.4,0.5,0.6,0.7,0.3,0.8
+Church of Sant Bartomeu i Santa Tecla,Historic,41.2356,1.8116,0.3,0.88,sitges,0.3,0.88,0.5,0.7,0.4,0.6
+Passeig Marítim,Promenade,41.2342,1.8116,0.3,0.91,sitges,0.3,0.91,0.5,0.7,0.4,0.8
+Museu Cau Ferrat,Museum,41.2353,1.8115,0.3,0.82,sitges,0.4,0.82,0.5,0.7,0.3,0.6
+Museu de Maricel,Museum,41.2354,1.8114,0.3,0.85,sitges,0.4,0.7,0.6,0.5,0.3,0.8
+Palau de Maricel,Historic,41.2355,1.8113,0.3,0.88,sitges,0.4,0.7,0.6,0.5,0.3,0.8
+Plaça del Cap de la Vila,Square,41.2363,1.8087,0.3,0.95,sitges,0.4,0.8,0.6,0.7,0.5,0.9
+Platja de Sant Sebastià,Beach,41.2365,1.8135,0.3,0.94,sitges,0.4,0.94,0.6,0.5,0.3,0.7
+Platja de la Ribera,Beach,41.2341,1.8111,0.3,0.87,sitges,0.4,0.8,0.6,0.7,0.5,0.9
+Platja de l'Estanyol,Beach,41.2323,1.808,0.3,0.91,sitges,0.4,0.91,0.5,0.7,0.3,0.8
+Platja de la Bassa Rodona,Beach,41.2329,1.8094,0.3,0.89,sitges,0.3,0.89,0.5,0.7,0.4,0.8
+Platja Balmins,Beach,41.237,1.8155,0.44,0.62,sitges,0.5,0.75,0.6,0.7,0.4,0.8
+Ermita de la Trinitat,Historic,41.2334,1.8354,0.3,0.63,sitges,0.3,0.63,0.5,0.7,0.4,0.8
+Jardins de Terramar,Park,41.2284,1.803,0.52,0.62,sitges,0.45,0.75,0.6,0.7,0.4,0.65
+Autòdrom Terramar,Historic,41.2275,1.7824,0.3,0.69,sitges,0.3,0.69,0.5,0.7,0.4,0.6
+Mercat Vell de Sitges,Market,41.2367,1.8083,0.3,0.71,sitges,0.3,0.71,0.5,0.6,0.4,0.8
+Cementiri de Sitges,Historic,41.2358,1.8162,0.55,0.56,sitges,0.45,0.65,0.7,0.6,0.4,0.75
+Carrer del Pecat,Cultural,41.2354,1.8101,0.3,0.79,sitges,0.3,0.79,0.5,0.6,0.4,0.7
+Casa Bacardi Sitges,Museum,41.2365,1.8085,0.36,0.7,sitges,0.4,0.5,0.6,0.7,0.3,0.8
+Museu Romàntic Can Llopis,Museum,41.236,1.8092,0.3,0.69,sitges,0.4,0.7,0.5,0.6,0.3,0.8
+Centro Cultural Miramar,Cultural,41.2359,1.8125,0.4,0.67,sitges,0.4,0.67,0.5,0.6,0.3,0.8
+Club de Mar Sitges,Sports,41.2352,1.814,0.3,0.83,sitges,0.4,0.75,0.6,0.5,0.3,0.7
+Mirador Hotel Subur,Viewpoint,41.2343,1.8105,0.3,0.68,sitges,0.4,0.68,0.5,0.7,0.3,0.6
+Platja de la Barra,Beach,41.2289,1.8027,0.3,0.69,sitges,0.4,0.7,0.5,0.6,0.3,0.8
+Mirador del Parc Natural del Garraf,Viewpoint,41.235,1.793,0.3,0.76,sitges,0.4,0.76,0.5,0.7,0.3,0.8
+Celler Güell,Historic,41.2209,1.7819,0.36,0.7,sitges,0.36,0.7,0.5,0.8,0.4,0.6
+Port d'Aiguadolç,Harbor,41.2373,1.8182,0.32,0.76,sitges,0.32,0.76,0.5,0.7,0.4,0.6
+Platja de les Anquines,Beach,41.2267,1.7985,0.3,0.71,sitges,0.4,0.71,0.5,0.6,0.3,0.8
+Racó de la Calma,Viewpoint,41.2353,1.8117,0.3,0.71,sitges,0.3,0.71,0.5,0.6,0.4,0.8
+Fundació Stämpfli Art Museum,Museum,41.2355,1.81,0.3,0.8,sitges,0.4,0.6,0.7,0.5,0.3,0.8
+Monument a El Greco,Monument,41.235,1.8118,0.3,0.7,sitges,0.3,0.7,0.5,0.6,0.4,0.8
+Roman Amphitheatre of Tarragona,Historic,41.1167,1.254,0.3,0.9,tarragona,0.4,0.9,0.5,0.6,0.3,0.7
+Roman Circus of Tarraco,Historic,41.119,1.257,0.3,0.75,tarragona,0.4,0.75,0.6,0.5,0.3,0.7
+Tarragona Cathedral,Monument,41.1181,1.2575,0.3,0.8,tarragona,0.4,0.8,0.5,0.6,0.3,0.7
+Les Ferreres Aqueduct (Pont del Diable),Historic,41.1536,1.2703,0.3,0.7,tarragona,0.4,0.6,0.5,0.7,0.3,0.8
+Balcó del Mediterrani,Viewpoint,41.1156,1.2572,0.3,0.85,tarragona,0.3,0.85,0.5,0.6,0.4,0.7
+National Archaeological Museum of Tarragona,Museum,41.1184,1.2581,0.43,0.65,tarragona,0.4,0.7,0.5,0.6,0.3,0.8
+Passeig Arqueològic (Tarraco Walls),Historic,41.1199,1.2567,0.3,0.6,tarragona,0.3,0.6,0.5,0.7,0.4,0.8
+Paleochristian Necropolis,Museum,41.115,1.2548,0.43,0.55,tarragona,0.4,0.6,0.5,0.7,0.3,0.8
+Roman Forum of Tarraco,Historic,41.1197,1.2544,0.46,0.6,tarragona,0.5,0.75,0.4,0.6,0.3,0.7
+Mercat Central de Tarragona,Market,41.1174,1.2491,0.3,0.7,tarragona,0.4,0.6,0.5,0.7,0.3,0.8
+El Serrallo Fishermen Quarter,Cultural,41.114,1.247,0.37,0.6,tarragona,0.4,0.6,0.5,0.7,0.3,0.8
+Moll de Costa (Port of Tarragona),Harbor,41.1098,1.2475,0.5,0.5,tarragona,0.4,0.6,0.7,0.5,0.3,0.8
+Playa del Miracle,Beach,41.1132,1.2532,0.3,0.8,tarragona,0.4,0.8,0.5,0.6,0.3,0.7
+Platja de l'Arrabassada,Beach,41.1275,1.2635,0.3,0.7,tarragona,0.4,0.6,0.5,0.7,0.3,0.8
+Platja Savinosa,Beach,41.1304,1.2664,0.38,0.6,tarragona,0.4,0.6,0.5,0.7,0.3,0.8
+Playa Llarga,Beach,41.1345,1.2708,0.43,0.55,tarragona,0.43,0.55,0.5,0.6,0.4,0.7
+Bosque de la Marquesa,Nature,41.1515,1.291,0.71,0.4,tarragona,0.5,0.3,0.6,0.8,0.4,0.7
+Cala Fonda (Waikiki),Beach,41.1537,1.2948,0.61,0.5,tarragona,0.4,0.7,0.6,0.5,0.3,0.8
+Castell de Tamarit,Historic,41.1386,1.3045,0.4,0.65,tarragona,0.4,0.65,0.5,0.7,0.3,0.6
+Museu d'Art Modern de Tarragona,Museum,41.1188,1.2578,0.52,0.5,tarragona,0.52,0.5,0.5,0.5,0.5,0.5
+Casa Canals,Historic,41.1186,1.2569,0.59,0.45,tarragona,0.59,0.45,0.5,0.7,0.4,0.6
+Tinglado 1 Exhibition Space,Cultural,41.1092,1.2482,0.67,0.4,tarragona,0.67,0.4,0.5,0.6,0.3,0.8
+Plaça del Fòrum,Square,41.1183,1.257,0.45,0.5,tarragona,0.4,0.6,0.7,0.5,0.3,0.8
+Plaça de la Font,Square,41.1184,1.2553,0.41,0.65,tarragona,0.41,0.65,0.5,0.7,0.3,0.8
+Parc del Camp de Mart,Park,41.1201,1.255,0.54,0.4,tarragona,0.3,0.5,0.7,0.6,0.4,0.8
+Auditori del Camp de Mart,Music Venue,41.1205,1.2546,0.42,0.55,tarragona,0.42,0.55,0.5,0.6,0.4,0.7
+Tarraco Arena Plaça,Sports,41.1173,1.2484,0.45,0.6,tarragona,0.45,0.6,0.5,0.7,0.4,0.6
+Refugi Antiaeri Carrer Lleida,Historic,41.1169,1.248,0.58,0.35,tarragona,0.58,0.35,0.6,0.7,0.4,0.8
+Museu Bíblic Tarraconense,Museum,41.1189,1.2576,0.59,0.4,tarragona,0.59,0.4,0.5,0.7,0.3,0.8
+Roman Theatre of Tarraco,Historic,41.1154,1.2598,0.46,0.5,tarragona,0.46,0.5,0.5,0.5,0.5,0.5
+Plaça Major,Square,41.928886,2.25349,0.3,0.9,vic,0.4,0.9,0.5,0.7,0.3,0.8
+Catedral de Sant Pere,Cathedral,41.931392,2.252167,0.3,0.89,vic,0.3,0.89,0.5,0.7,0.4,0.6
+Temple Romà de Vic,Historic,41.933445,2.251047,0.3,0.92,vic,0.4,0.92,0.6,0.7,0.3,0.8
+Museu Episcopal de Vic,Museum,41.93168,2.252181,0.3,0.88,vic,0.4,0.9,0.6,0.7,0.5,0.8
+Pont de Queralt,Bridge,41.933971,2.25289,0.3,0.93,vic,0.4,0.93,0.6,0.5,0.2,0.7
+Museu de l'Art de la Pell,Museum,41.927887,2.251466,0.3,0.87,vic,0.4,0.87,0.6,0.5,0.3,0.8
+Casa Comella,Historic,41.933117,2.254149,0.37,0.69,vic,0.37,0.69,0.5,0.6,0.4,0.8
+Casa Serratosa,Historic,41.931676,2.253177,0.3,0.89,vic,0.3,0.89,0.5,0.7,0.4,0.6
+Casa Bayés,Historic,41.931621,2.254369,0.3,0.88,vic,0.4,0.9,0.6,0.7,0.5,0.8
+Església de la Pietat,Church,41.927032,2.253215,0.32,0.69,vic,0.32,0.69,0.5,0.7,0.4,0.8
+Església de Sant Just i Sant Pastor,Church,41.930888,2.255228,0.3,0.72,vic,0.3,0.72,0.5,0.6,0.4,0.8
+Seminari de Vic,Cultural,41.929199,2.251465,0.35,0.69,vic,0.35,0.69,0.5,0.7,0.4,0.6
+Rambla del Passeig,Promenade,41.928992,2.253665,0.31,0.74,vic,0.31,0.74,0.5,0.6,0.4,0.8
+Mercat Municipal de Vic,Market,41.933351,2.253308,0.36,0.71,vic,0.4,0.6,0.5,0.7,0.3,0.8
+Biblioteca Joan Triadú,Cultural,41.933871,2.255947,0.49,0.56,vic,0.49,0.56,0.5,0.7,0.4,0.8
+Parc Jaume Balmes,Park,41.931884,2.258404,0.3,0.75,vic,0.3,0.75,0.5,0.6,0.4,0.8
+Parc del Mèder,Park,41.933035,2.257209,0.39,0.63,vic,0.4,0.7,0.5,0.6,0.3,0.8
+Pont d'en Bruguer,Bridge,41.93114,2.254812,0.3,0.81,vic,0.4,0.81,0.5,0.7,0.3,0.6
+Convent de Santa Teresa,Historic,41.928986,2.255545,0.36,0.67,vic,0.4,0.67,0.5,0.8,0.3,0.7
+Call Jueu (Jewish Quarter),Cultural,41.930676,2.254648,0.36,0.56,vic,0.4,0.5,0.7,0.8,0.3,0.9
+Museu de la Ciutat de Vic,Museum,41.930956,2.252979,0.32,0.65,vic,0.32,0.65,0.5,0.7,0.4,0.8
+Oficina de Turisme de Vic,Cultural,41.927433,2.255934,0.3,0.76,vic,0.3,0.76,0.5,0.7,0.4,0.8
+Torre dels Frares,Tower,41.933699,2.255442,0.48,0.56,vic,0.48,0.56,0.5,0.7,0.4,0.6
+Plaça de la Catedral,Square,41.928826,2.252399,0.38,0.69,vic,0.4,0.7,0.5,0.6,0.3,0.8
+Plaça del Bisbe Oliba,Square,41.931463,2.257324,0.3,0.87,vic,0.3,0.87,0.5,0.6,0.4,0.8
+Plaça de Sant Felip,Square,41.933376,2.25472,0.3,0.74,vic,0.4,0.6,0.7,0.5,0.3,0.8
+Parc de l'Escorial,Park,41.928992,2.258901,0.3,0.77,vic,0.4,0.77,0.6,0.5,0.3,0.8
+Parc de la Séquia,Park,41.926489,2.251082,0.31,0.75,vic,0.31,0.75,0.5,0.6,0.4,0.7
+Orfeó Vigatà,Music Venue,41.931772,2.256184,0.3,0.89,vic,0.4,0.8,0.6,0.7,0.5,0.9
+Plaça dels Màrtirs,Square,41.927587,2.255493,0.37,0.7,vic,0.4,0.7,0.5,0.6,0.3,0.8

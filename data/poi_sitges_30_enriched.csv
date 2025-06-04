@@ -1,0 +1,31 @@
+name,category,lat,lon,sustainability,popularity,municipality,z1,z2,z3,z4,z5,z6
+Church of Sant Bartomeu i Santa Tecla,Historic,41.2356,1.8116,0.3,0.88,sitges,0.3,0.88,0.5,0.7,0.4,0.6
+Passeig Marítim,Promenade,41.2342,1.8116,0.3,0.91,sitges,0.3,0.91,0.5,0.7,0.4,0.8
+Museu Cau Ferrat,Museum,41.2353,1.8115,0.3,0.82,sitges,0.4,0.82,0.5,0.7,0.3,0.6
+Museu de Maricel,Museum,41.2354,1.8114,0.3,0.85,sitges,0.4,0.7,0.6,0.5,0.3,0.8
+Palau de Maricel,Historic,41.2355,1.8113,0.3,0.88,sitges,0.4,0.7,0.6,0.5,0.3,0.8
+Plaça del Cap de la Vila,Square,41.2363,1.8087,0.3,0.95,sitges,0.4,0.8,0.6,0.7,0.5,0.9
+Platja de Sant Sebastià,Beach,41.2365,1.8135,0.3,0.94,sitges,0.4,0.94,0.6,0.5,0.3,0.7
+Platja de la Ribera,Beach,41.2341,1.8111,0.3,0.87,sitges,0.4,0.8,0.6,0.7,0.5,0.9
+Platja de l'Estanyol,Beach,41.2323,1.808,0.3,0.91,sitges,0.4,0.91,0.5,0.7,0.3,0.8
+Platja de la Bassa Rodona,Beach,41.2329,1.8094,0.3,0.89,sitges,0.3,0.89,0.5,0.7,0.4,0.8
+Platja Balmins,Beach,41.237,1.8155,0.44,0.62,sitges,0.5,0.75,0.6,0.7,0.4,0.8
+Ermita de la Trinitat,Historic,41.2334,1.8354,0.3,0.63,sitges,0.3,0.63,0.5,0.7,0.4,0.8
+Jardins de Terramar,Park,41.2284,1.803,0.52,0.62,sitges,0.45,0.75,0.6,0.7,0.4,0.65
+Autòdrom Terramar,Historic,41.2275,1.7824,0.3,0.69,sitges,0.3,0.69,0.5,0.7,0.4,0.6
+Mercat Vell de Sitges,Market,41.2367,1.8083,0.3,0.71,sitges,0.3,0.71,0.5,0.6,0.4,0.8
+Cementiri de Sitges,Historic,41.2358,1.8162,0.55,0.56,sitges,0.45,0.65,0.7,0.6,0.4,0.75
+Carrer del Pecat,Cultural,41.2354,1.8101,0.3,0.79,sitges,0.3,0.79,0.5,0.6,0.4,0.7
+Casa Bacardi Sitges,Museum,41.2365,1.8085,0.36,0.7,sitges,0.4,0.5,0.6,0.7,0.3,0.8
+Museu Romàntic Can Llopis,Museum,41.236,1.8092,0.3,0.69,sitges,0.4,0.7,0.5,0.6,0.3,0.8
+Centro Cultural Miramar,Cultural,41.2359,1.8125,0.4,0.67,sitges,0.4,0.67,0.5,0.6,0.3,0.8
+Club de Mar Sitges,Sports,41.2352,1.814,0.3,0.83,sitges,0.4,0.75,0.6,0.5,0.3,0.7
+Mirador Hotel Subur,Viewpoint,41.2343,1.8105,0.3,0.68,sitges,0.4,0.68,0.5,0.7,0.3,0.6
+Platja de la Barra,Beach,41.2289,1.8027,0.3,0.69,sitges,0.4,0.7,0.5,0.6,0.3,0.8
+Mirador del Parc Natural del Garraf,Viewpoint,41.235,1.793,0.3,0.76,sitges,0.4,0.76,0.5,0.7,0.3,0.8
+Celler Güell,Historic,41.2209,1.7819,0.36,0.7,sitges,0.36,0.7,0.5,0.8,0.4,0.6
+Port d'Aiguadolç,Harbor,41.2373,1.8182,0.32,0.76,sitges,0.32,0.76,0.5,0.7,0.4,0.6
+Platja de les Anquines,Beach,41.2267,1.7985,0.3,0.71,sitges,0.4,0.71,0.5,0.6,0.3,0.8
+Racó de la Calma,Viewpoint,41.2353,1.8117,0.3,0.71,sitges,0.3,0.71,0.5,0.6,0.4,0.8
+Fundació Stämpfli Art Museum,Museum,41.2355,1.81,0.3,0.8,sitges,0.4,0.6,0.7,0.5,0.3,0.8
+Monument a El Greco,Monument,41.235,1.8118,0.3,0.7,sitges,0.3,0.7,0.5,0.6,0.4,0.8

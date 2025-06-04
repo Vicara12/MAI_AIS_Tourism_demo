@@ -1,0 +1,31 @@
+name,category,lat,lon,sustainability,popularity,municipality,z1,z2,z3,z4,z5,z6
+La Sagrada Família,Monument,41.4036,2.1744,0.35,0.98,barcelona,0.4,0.98,0.6,0.5,0.3,0.7
+Park Güell,Park,41.4145,2.1527,0.8,0.95,barcelona,0.6,0.95,0.4,0.7,0.5,0.8
+Casa Batlló,Monument,41.3916,2.1649,0.4,0.92,barcelona,0.4,0.92,0.5,0.7,0.3,0.8
+La Pedrera (Casa Milà),Monument,41.3954,2.1619,0.45,0.88,barcelona,0.4,0.9,0.6,0.7,0.5,0.8
+Barcelona Cathedral,Historic,41.3839,2.1763,0.5,0.85,barcelona,0.4,0.85,0.6,0.7,0.3,0.8
+Montjuïc Castle,Historic,41.3634,2.165,0.7,0.7,barcelona,0.5,0.6,0.4,0.8,0.3,0.7
+Museu Picasso,Museum,41.3852,2.18,0.55,0.8,barcelona,0.4,0.7,0.6,0.75,0.5,0.8
+Parc de la Ciutadella,Park,41.3887,2.187,0.88,0.75,barcelona,0.4,0.6,0.7,0.9,0.5,0.8
+Spotify Camp Nou,Sports,41.3809,2.1228,0.3,0.9,barcelona,0.4,0.9,0.5,0.3,0.6,0.7
+Barceloneta Beach,Beach,41.3815,2.1925,0.6,0.93,barcelona,0.4,0.93,0.5,0.7,0.3,0.8
+Mercat de la Boqueria,Market,41.3825,2.1719,0.45,0.89,barcelona,0.4,0.8,0.6,0.7,0.5,0.9
+Palau de la Música Catalana,Music Venue,41.387,2.1751,0.55,0.78,barcelona,0.55,0.78,0.65,0.7,0.4,0.85
+Tibidabo Amusement Park,Amusement,41.422,2.1183,0.5,0.74,barcelona,0.4,0.6,0.5,0.7,0.3,0.8
+Bunkers del Carmel,Viewpoint,41.4187,2.165,0.85,0.65,barcelona,0.4,0.7,0.6,0.75,0.3,0.8
+Jardí Botànic de Barcelona,Nature,41.3643,2.156,0.9,0.55,barcelona,0.3,0.4,0.7,0.8,0.2,0.9
+Museu Nacional d'Art de Catalunya (MNAC),Museum,41.3689,2.1534,0.6,0.77,barcelona,0.4,0.8,0.5,0.7,0.3,0.9
+Arc de Triomf,Monument,41.3911,2.1808,0.5,0.83,barcelona,0.4,0.83,0.6,0.7,0.5,0.8
+Hospital de Sant Pau,Historic,41.4127,2.1743,0.75,0.65,barcelona,0.5,0.8,0.6,0.7,0.4,0.9
+Mercat de Santa Caterina,Market,41.386,2.1754,0.6,0.6,barcelona,0.4,0.5,0.7,0.8,0.3,0.9
+Mirador de Colom,Viewpoint,41.3741,2.1779,0.55,0.7,barcelona,0.4,0.6,0.5,0.7,0.3,0.8
+Parc del Laberint d'Horta,Park,41.4413,2.1382,0.92,0.5,barcelona,0.3,0.4,0.7,0.8,0.2,0.9
+CaixaForum Barcelona,Museum,41.3697,2.1495,0.65,0.58,barcelona,0.65,0.58,0.5,0.7,0.4,0.8
+Poble Espanyol,Cultural,41.3693,2.1479,0.6,0.62,barcelona,0.4,0.7,0.5,0.8,0.3,0.6
+Palau Güell,Monument,41.3803,2.1741,0.55,0.68,barcelona,0.55,0.68,0.5,0.7,0.4,0.6
+Plaça Reial,Square,41.3803,2.1752,0.5,0.72,barcelona,0.4,0.8,0.6,0.7,0.5,0.9
+MUHBA Plaça del Rei,Museum,41.3835,2.1776,0.65,0.6,barcelona,0.4,0.75,0.5,0.7,0.3,0.8
+L'Aquàrium de Barcelona,Attraction,41.3774,2.1897,0.48,0.8,barcelona,0.5,0.8,0.6,0.7,0.4,0.9
+Museu de Ciències Naturals (Museu Blau),Museum,41.4115,2.2194,0.7,0.55,barcelona,0.4,0.6,0.7,0.8,0.5,0.9
+CosmoCaixa Science Museum,Museum,41.4091,2.1418,0.78,0.57,barcelona,0.4,0.6,0.7,0.8,0.5,0.9
+Font Màgica de Montjuïc,Viewpoint,41.3702,2.1518,0.7,0.82,barcelona,0.5,0.82,0.6,0.7,0.4,0.8

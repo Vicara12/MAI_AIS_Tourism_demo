@@ -1,0 +1,9 @@
+pandas 
+numpy 
+geopy 
+pyDecision 
+pymcdm 
+scikit-criteria 
+rdflib 
+python-dotenv 
+openai
