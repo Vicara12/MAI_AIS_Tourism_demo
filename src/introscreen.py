@@ -6,6 +6,7 @@ import pydeck as pdk
 from geopy.distance import geodesic
 from userprof import Profile
 
+DIST_DEFAULT = 50
 
 def checkValidProfiles():
   valid = True
@@ -153,9 +154,17 @@ def renderTabs():
       # Maximum disp.
       cols_dist = st.columns(4)
       with cols_dist[0]:
-        dist = st.number_input("Maximum distance", key=f"disp_{n}")
-      if dist != 0:
-        ss.profiles[n].max_disp = dist
+          dist = st.number_input(
+              "Maximum distance (km)",
+              min_value=1,
+              max_value=500,
+              value=DIST_DEFAULT,
+              step=1,
+              format="%d",
+              key=f"disp_{n}",
+          )
+      if dist:
+        ss.profiles[n].max_disp = int(dist)
       # Map
       renderMap(pd.DataFrame(ss.data, columns=["lat","lon"]),
                 user_loc=ss.profiles[n].location,

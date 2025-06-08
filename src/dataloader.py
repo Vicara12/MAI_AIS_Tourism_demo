@@ -1,7 +1,7 @@
 import pandas as pd
 import os
 
-def readTourismData(folder_path: str = "./data") -> pd.DataFrame:
+def readTourismData(folder_path: str = "../data") -> pd.DataFrame:
     merged_df = pd.DataFrame()
     for filename in os.listdir(folder_path):
         if filename.endswith(".csv"):
