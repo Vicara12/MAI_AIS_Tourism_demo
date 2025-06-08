@@ -46,7 +46,7 @@ with st.sidebar:
 
     if st.button("🧠  LLM enrich dataset"):
         from enrich import enrich_dataset
-        ss.data = enrich_dataset("../data", spinner_callback=st.spinner)
+        ss.data = enrich_dataset("data", spinner_callback=st.spinner)
         ss.city_locs = ss.data.groupby("municipality")[["lat", "lon"]].first().to_dict("index")
         st.success("Dataset enriched.")
 

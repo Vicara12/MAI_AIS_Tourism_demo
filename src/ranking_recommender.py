@@ -341,8 +341,6 @@ def displayResults(group_df: pd.DataFrame, top_n: int = 9) -> None:
         .head(top_n)
     )
 
-
-
     # ── CARD GRID ─────────────────────────────────────────────
     st.subheader(f"Top {len(uniq_df)} recommendations")
     cols = st.columns(3)
