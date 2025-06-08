@@ -197,6 +197,58 @@ def get_place_meta(name: str, town: str) -> dict:
                              maps_uri=maps_uri, photo=photo_url)
     return _place_cache[pid]
 
+def get_photo_url(name: str, town: str) -> str | None:
+    """
+    Return a signed /media photo URL (≤400 px) or None.
+
+    • uses *text search v1*  → places[0].photos[0].name
+    • builds the /media URL exactly as the Google “Place Photos (New)” guide
+    """
+    if not GOOGLE_KEY:
+        print("NO-KEY        – set GOOGLE_MAPS_KEY env-var")
+        return None
+
+    cache_key = f"{name}|{town}"
+    if cache_key in _photo_cache:
+        return _photo_cache[cache_key]
+
+    # 1️⃣   v1 text-search  ---------------------------------------------------
+    body = {
+        "textQuery": f"{name} {town}",
+        "maxResultCount": 1,
+        "languageCode": "en"
+    }
+    hdr  = {
+        "Content-Type":      "application/json",
+        "X-Goog-Api-Key":    GOOGLE_KEY,
+        # field mask MUST include 'places.photos' or the array is omitted
+        "X-Goog-FieldMask":  "places.id,places.displayName,places.photos"
+    }
+
+    try:
+        r = requests.post(TXT_ENDPOINT, headers=hdr, json=body, timeout=6)
+        if r.status_code != 200:
+            print("TEXT HTTP✗  ", cache_key, r.status_code, r.text)
+            _photo_cache[cache_key] = None
+            return None
+        data = r.json()
+        photos = data["places"][0]["photos"]
+        photo_name = photos[0]["name"]         # places/…/photos/…
+    except Exception as e:
+        print("TEXT PARSE✗ ", cache_key, repr(e))
+        _photo_cache[cache_key] = None
+        return None
+
+    # 2️⃣   build /media URL  -------------------------------------------------
+    url = (
+        f"{PHOTO_V1}/{photo_name}/media"
+        f"?maxHeightPx=400&maxWidthPx=400&key={GOOGLE_KEY}"
+    )
+    print("PHOTO✓       ", cache_key)          # success
+    _photo_cache[cache_key] = url
+    return url
+
+
 
 # ─────────  card renderer  ─────────
 def _card(poi: pd.Series):
@@ -217,7 +269,8 @@ def _card(poi: pd.Series):
 
     # ── photo (or grey placeholder) ───────────────────────────
     photo_html = (
-        f'<img src="{meta["photo"]}" style="width:100%;height:140px;object-fit:cover;">'
+        f'<img src="{meta["photo"]}" style="width:100%;height:140px;'
+        'object-fit:cover;">'
         if meta["photo"] else
         '<div style="height:140px;display:flex;align-items:center;'
         'justify-content:center;background:#f5f5f5">'
@@ -324,8 +377,6 @@ def _interactive_pairwise(df: pd.DataFrame, key_prefix: str):
     if left != right:
         a = df.loc[df["name"] == left].iloc[0]
         b = df.loc[df["name"] == right].iloc[0]
-        if a['U_LSP'] < b['U_LSP']:
-            a,b = b,a
         st.markdown(pairwise_explain(a, b))
 
 

@@ -21,9 +21,6 @@ def checkValidProfiles():
 
 
 def renderHeader():
-  if st.button("Generate recommendation") and checkValidProfiles():
-    ss.users_menu = False
-    ss.rerun = True
   if st.button("Add new traveler"):
     ss.profiles[ss.proc_counter] = Profile()
     ss.proc_counter += 1
