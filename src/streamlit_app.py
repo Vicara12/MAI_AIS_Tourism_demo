@@ -45,10 +45,11 @@ with st.sidebar:
     st.header("⚙️  Actions")
 
     if st.button("🧠  LLM enrich dataset"):
-        from enrich import enrich_dataset
-        ss.data = enrich_dataset("data", spinner_callback=st.spinner)
-        ss.city_locs = ss.data.groupby("municipality")[["lat", "lon"]].first().to_dict("index")
-        st.success("Dataset enriched.")
+        st.warning("API calls are expensive so we do not provide this, but all our data points are already enriched. Check out the code to see how we did so, functionality is commented.")
+        # from enrich import enrich_dataset
+        # ss.data = enrich_dataset("data", spinner_callback=st.spinner)
+        # ss.city_locs = ss.data.groupby("municipality")[["lat", "lon"]].first().to_dict("index")
+        # st.success("Dataset enriched.")
 
     with st.expander("⚖️  MCDA pillar weights", expanded=False):
         w_env = st.slider("Environment  (P1)", 0.05, 0.45, 0.25, 0.01)

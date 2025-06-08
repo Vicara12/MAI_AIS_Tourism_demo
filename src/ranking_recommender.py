@@ -377,6 +377,8 @@ def _interactive_pairwise(df: pd.DataFrame, key_prefix: str):
     if left != right:
         a = df.loc[df["name"] == left].iloc[0]
         b = df.loc[df["name"] == right].iloc[0]
+        if a['U_LSP'] < b['U_LSP']:
+            a,b = b,a
         st.markdown(pairwise_explain(a, b))
 
 
